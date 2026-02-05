@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-lyric-poetry-power-corruption",
+  "title": "The Unyielding Tree",
+  "tagline": "A poet's dream of freedom becomes a leader's nightmare of power.",
+  "target_words": 70000,
+  "actual_words": 69489,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Visionary Idealism",
+    "The Personal Cost of National Liberation",
+    "The Weaponization of Symbol and Myth",
+    "The Lyricism of Power vs. The Poetry of the People"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Telegram and the Smock",
+      "words": 2895
+    },
+    {
+      "ch": 2,
+      "title": "Jamestown Whispers",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "The Arena's Echo",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "First Blood of the Revolution",
+      "words": 2900
+    },
+    {
+      "ch": 5,
+      "title": "The Poet's Draft",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "Flags and Shadows",
+      "words": 2850
+    },
+    {
+      "ch": 7,
+      "title": "Komla's Doubt",
+      "words": 2750
+    },
+    {
+      "ch": 8,
+      "title": "The London Ultimatum",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "Midnight in Nima",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "The Speech That Wasn't Given",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "The Price of a Bridge of Fire",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "The First Prisoner of Conscience",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "Erosion",
+      "words": 2850
+    },
+    {
+      "ch": 14,
+      "title": "The New Palace",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "A Friend's Silence",
+      "words": 2750
+    },
+    {
+      "ch": 16,
+      "title": "The Cult of the Ogyea",
+      "words": 3300
+    },
+    {
+      "ch": 17,
+      "title": "The Lyric Becomes Decree",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "Harvest of Thorns",
+      "words": 2800
+    },
+    {
+      "ch": 19,
+      "title": "The Ghost in Flagstaff House",
+      "words": 3050
+    },
+    {
+      "ch": 20,
+      "title": "A Crack in the Monument",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "The People's New Song",
+      "words": 3150
+    },
+    {
+      "ch": 22,
+      "title": "The Trial of Symbols",
+      "words": 3000
+    },
+    {
+      "ch": 23,
+      "title": "What the Rain Washes Away",
+      "words": 2850
+    },
+    {
+      "ch": 24,
+      "title": "The Seed in the Blood-Earth",
+      "words": 3200
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a poem composed by Kwame in Chapter 5, full of fire and liberation, and then write his internal monologue re-reading it as an older, entrenched leader in Chapter 17.",
+      "Draft the secret, unvarnished minutes of the Executive meeting in the Jamestown community centre (Ch 1/2), contrasting the public myth of unity.",
+      "Narrate a day in the life of a common market trader in Accra, comparing the promises of 'The Speech' to the reality of price controls and secret police (Ch 10-16).",
+      "Write Komla's private journal entry the night he realizes his friend, the visionary, has become the thing they fought against."
+    ],
+    "technical": [
+      "Build a 'Corruption of Text' visualizer that takes the lyrical, hopeful text of early independence speeches and gradually overlays/strikes through it with the harsh, legalistic text of later decrees and prison orders.",
+      "Create an interactive map of Accra tracking the geographical and psychological distance between key locations: the Jamestown community centre, the Arena, Flagstaff House, and the new prison."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "Frantz Fanon",
+      "Wole Soyinka",
+      "Aimé Césaire"
+    ]
+  },
+  "cover_prompt": "A solitary, ancient baobab tree with bark like weathered bronze, its roots gripping the red earth of a windswept plateau, while its uppermost branches subtly morph into grasping, skeletal hands against a twilight sky, [Detailed Scene & Context: the scene is split by a deep, dry riverbed; on one side, a single figure in simple clothes sits with a notebook, gazing up in wonder, casting a long shadow, while on the opposing bank, a silhouetted crowd raises fists and banners towards the tree, their forms merging into a single, imposing shadow that bleeds into the trunk], [Artistic Style & Medium: in the atmospheric style of Kent Monkman, blending magical realism with poignant historical allegory, rendered in textured oil paints and charcoal smudges], [Composition & Camera: book cover framing, a centered and symmetrical composition that emphasizes the divide, shot from a low angle to monumentalize the tree and the conflicting shadows], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single source from the horizon, casting long, conflicting shadows; a palette of burnt sienna, deep ochre, bruised violet, and gold-leaf highlights against encroaching indigo], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
