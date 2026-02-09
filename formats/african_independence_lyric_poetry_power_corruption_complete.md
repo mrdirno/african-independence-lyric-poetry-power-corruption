@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **Chapter 1**
 
-The rain fell on Accra like a judgement, a warm, heavy curtain that turned the red earth to the colour of old blood. It drummed on the corrugated iron roofs of Nima, hissed on the hot tarmac of the Ring Road, and ran in filthy, eager rivers down the gutters of Flagstaff House. In a small, airless office that smelled of damp paper and ambition, Kwame Nkrumah stared at the water sheeting down his window, watching the world blur. The telegram from London, crisp and white and lethal, lay on his desk. He did not need to read it again. The words were etched on the back of his eyes: *Constitutional talks indefinitely postponed. Her Majesty’s Government cannot, at this time…*
+Listen: the drumbeat starts at dawn. Not the ceremonial kind for tourists, but the old pattern—three quick, two slow—that once summoned warriors to the ridge. Now it's the sound of boots on pavement, soldiers marching to secure the radio station. The rhythm hasn't changed, only the intention. My grandmother could translate drum language: harvest time, funeral rites, border warnings. She'd say this new beat means "possession." Not of land, but of airwaves. The soldiers don't know they're keeping time to a centuries-old cadence about stolen yams and broken promises. Their sergeant barks orders in French, but their feet answer in Temne. I hear the contradiction in every step: the left foot says "power," the right says "corruption." Between them, the silence where truth used to live. They march past my window daily, and I count their steps like stanzas. Today makes forty-seven days of this particular poem. The rhythm has developed a stutter near the ministry building—a hesitation where the cobblestones are uneven. That's where the old market stood before they paved it over. The ground remembers. Even concrete can't silence completely.
+
 
 Behind him, the fan chopped the thick air with a tired, metallic whine. He could hear the muffled sounds of the Secretariat—the clatter of a typewriter, the low murmur of anxious voices, the shuffle of feet. They were waiting. The whole country was waiting, holding its breath under this biblical rain. He had promised them sun. He had promised them a new dawn. And now London sent a storm.
 
@@ -69,6 +72,8 @@ He was no longer just a man with a plan. He was a man stepping into a myth he hi
 Outside, a first, tentative beam of sunlight struck the wet streets, making them gleam like rivers of light. Kwame Nkrumah turned his back on the view, on the old world, and walked towards the door. The first step of the long, dangerous walk to freedom was the step out of his own office, dressed as a different man.
 
 ---
+# Chapter 2
+
 ## **Chapter 2**
 
 The community centre in Jamestown was a vault of shadows and memory. It smelled of decades of dried sweat, of groundnut soup spilled and scrubbed away, of the salty, oily ghost of smoked fish that clung to the very timber. The single, naked bulb hanging from a wire in the centre of the room fought a losing battle against the dark, casting a wobbly yellow pool on the packed-earth floor. Around its edges, the members of the Executive Committee sat on wooden benches or upturned crates, their faces carved into masks of tension by the stark light from above and the deep shadow below.
@@ -156,6 +161,8 @@ Kwame looked around at his Executive, their faces alight with fearful, glorious 
 The poetry outside was a rising tide now, joyful, defiant. But beneath its rhythm, Kwame heard a new, discordant note: the quiet, metallic click of the first gun being loaded, not by a soldier in uniform, but by the invisible, corrupt hand of the new world already fighting to be born.
 
 ---
+# Chapter 3
+
 ## **Chapter 3**
 
 The lighthouse stood on a jagged claw of rock, a skeletal finger of whitewashed stone pointing accusingly at a sky just beginning to bleed grey at the edges. The dawn was a rumour, a smudge of charcoal on the eastern horizon. The sea below was a restless, murmuring blackness. Kwame stood in the lee of a rusting storage shed, fifty yards from the tower, the coarse wool of his smock no match for the salt-wind cutting in from the Atlantic. Komla was a deeper shadow beside him.
